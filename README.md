@@ -20,9 +20,18 @@ O **RefrigSim Demo** é um simulador desenvolvido para estudantes, técnicos e e
 - ✅ Tipo de óleo recomendado
 - ✅ Diagramas termodinâmicos (P-h)
 
-## Download
+## 📥 Download
 
-➡️ Baixe a versão mais recente em **Releases**.
+<p align="center">
+
+<a href="../../releases/download/v2.0-demo/RefrigSim_Demo.exe">
+<img src="https://img.shields.io/badge/⬇️_DOWNLOAD_REFRIGSIM_DEMO-v2.0-0A66C2?style=for-the-badge">
+
+</a>
+
+</p>
+
+**Clique no botão acima para baixar gratuitamente a versão Demo para Windows.**
 
 ## Licença
 
