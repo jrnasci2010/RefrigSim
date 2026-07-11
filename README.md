@@ -1,7 +1,7 @@
 # RefrigSim
 
 <p align="center">
-  <img src="images/github_banner.png" alt="RefrigSim Banner" width="100%">
+ <img src="github_banner.png.png" alt="RefrigSim Banner" width="100%">
 </p>
 
 ## Simulador Educacional do Ciclo de Refrigeração
