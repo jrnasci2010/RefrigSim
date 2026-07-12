@@ -33,30 +33,28 @@ O **RefrigSim Demo** é um simulador desenvolvido para estudantes, técnicos e e
 
 **Clique no botão acima para baixar gratuitamente a versão Demo para Windows.**
 
-## Licença
-
-Versão gratuita destinada exclusivamente para fins educacionais e treinamento técnico.
-
----
-
 ## 📚 Documentação
 
 Além do simulador, o **RefrigSim Demo v2.0** acompanha um **Manual Técnico** desenvolvido para auxiliar estudantes, técnicos e engenheiros na compreensão dos parâmetros utilizados durante as simulações.
 
-O manual explica de forma prática e técnica:
+O manual explica:
 
-- ✅ Temperatura de evaporação
-- ✅ Temperatura de condensação
-- ✅ Superaquecimento
-- ✅ Sub-resfriamento
-- ✅ Eficiência do compressor
-- ✅ Carga térmica
-- ✅ Perdas de pressão na sucção
-- ✅ Perdas de pressão na descarga
+- Temperatura de evaporação
+- Temperatura de condensação
+- Superaquecimento
+- Sub-resfriamento
+- Eficiência do compressor
+- Carga térmica
+- Perdas de pressão na sucção
+- Perdas de pressão na descarga
 
 📘 **Manual Técnico RefrigSim Demo v2.0**
 
 ➡️ [Abrir Manual Técnico](docs/Manual_Tecnico_RefrigSim_Demo_v2.0.pdf)
+
+## Licença
+
+Versão gratuita destinada exclusivamente para fins educacionais e treinamento técnico.
 
 ---
 
